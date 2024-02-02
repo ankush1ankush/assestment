@@ -1,0 +1,35 @@
+.footer {
+
+    font-family: 'Oswald', sans-serif !important;
+    border-top: 2px solid #2e3241;
+
+    padding: 13px;
+
+}
+
+.footer1 {
+    font-size: 12px;
+    display: flex;
+    color: #fff;
+    opacity: 0.45;
+
+}
+
+.Support {
+    float: right;
+
+}
+
+.Support_span {
+    margin-left: 85vw;
+}
+
+
+
+.web_span {
+    margin-left: 1vw;
+}
+
+.copyRight {
+    display: block !important;
+}

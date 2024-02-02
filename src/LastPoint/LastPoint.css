@@ -1,0 +1,20 @@
+.Last>button {
+
+    border-radius: 5px;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8px;
+    margin-bottom: 5px !important;
+    padding: 10px;
+}
+
+.Last {
+    margin-bottom: 0px;
+    z-index: 2;
+    height: 50px;
+    position: sticky;
+    bottom: 0;
+    background-color: #191d28;
+
+}

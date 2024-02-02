@@ -1,0 +1,158 @@
+.webLogo {
+    padding: 10px !important;
+    width: 300px;
+    margin-left: 0px;
+}
+
+.logoContainer {
+    width: 300px;
+    height: 67px;
+
+}
+
+.top {
+    font-family: 'Oswald', sans-serif !important;
+    padding: 20px 30px 0px;
+    display: flex
+}
+
+.dropdown {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+p {
+
+    margin-bottom: 10px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.dropdown-item {
+    font-weight: 450;
+}
+
+.btn {
+    border-radius: 10px;
+
+}
+
+.drop-link {
+    display: inline-flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-top: auto;
+    align-items: center;
+    align-content: center;
+
+    margin-right: auto;
+}
+
+.btn>a {
+    height: 37.6px;
+    background-color: #2e3241 !important;
+}
+
+.btn-group {
+    display: block !important;
+    margin-left: 8px;
+    margin-right: 8px;
+    min-width: 85px;
+    height: 37.6px;
+    background-color: #2e3241 !important;
+    border-radius: 10px;
+}
+
+.css-1hs7rf2-JoyCircularProgress-progress {
+
+    stroke: #3dc6c1 !important;
+
+
+}
+
+.strokeCount {
+    font-size: 15px;
+}
+
+.ctt {
+    display: flex;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+.clock>span {
+
+    font-size: medium;
+    color: #3dc6c1;
+
+}
+
+
+.clock {
+    margin-top: auto;
+
+}
+
+.d-inline {
+    height: 24px;
+    width: 28px;
+    margin-right: 3px;
+
+
+}
+
+.teleImage {
+
+    height: 15px;
+    width: 18px;
+    margin: auto;
+
+}
+
+.TelegramButton {
+
+    background-color: #3dc6c1;
+
+    border-radius: 3px;
+
+    margin: 10px;
+    padding: 6px 10px;
+    border-radius: 10px;
+    background-color: #3dc6c1;
+    color: #fff !important;
+    display: flex;
+}
+
+
+.colorwhite {
+    width: 192.137px;
+    height: 52.600px;
+    margin-top: auto;
+    margin-bottom: -5px;
+    margin-left: 10px;
+}
+
+.text-nowrap {
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.css-1lywa0m-JoySwitch-root {
+    --Switch-thumbBackground: #3dc6c1 !important;
+    --Switch-trackBackground: #2e3241 !important;
+}
+
+.switch {
+    margin-top: auto;
+
+    margin-left: 10px;
+}
+
+.btn-secondary {
+    background-color: #2e3241 !important;
+}
+
+a {
+    width: 85px;
+}
