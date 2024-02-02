@@ -32,9 +32,9 @@ function Home() {
 
 
         }
-        console.log(Mydata)
+        //console.log(Mydata)
         getData();
-    }, [Mydata])
+    }, [])
     return (
         <div className="Container  BackColor">
 
